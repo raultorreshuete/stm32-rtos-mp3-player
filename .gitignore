@@ -1,0 +1,21 @@
+# Carpetas de salida de compilación
+Objects/
+Listings/
+
+# Archivos temporales de Keil
+*.bak
+*.dep
+*.uvoptx
+*.uvguix.*
+*.htm
+*.map
+*.lnp
+*.axf
+*.build_log.htm
+*.scvd
+
+# Archivos de depuración y logs
+*.log
+*.d
+*.crf
+*.o
